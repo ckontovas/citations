@@ -1,5 +1,5 @@
 # Google Scholar Track Citations
-Public repository to display data - pushed from private
+Public repository to display data - pulled from private repo / Google Chrome extension
 https://ckontovas.github.io/citations/
  <br> 
  <br> 
